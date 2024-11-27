@@ -2,7 +2,7 @@ import br.com.alura.screenmatch.calculadora.CalcularodaDeTempo;
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 
-public class Main {
+public class Principal {
     public static void main(String[] args) {
        Filme meuFilme = new Filme();
        meuFilme.setNome("O poderoso chefão");
